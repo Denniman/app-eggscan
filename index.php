@@ -93,11 +93,13 @@
                         </ul>                        
                     </div>
                 </article>
+                
                 <article class="row row-3">
                     <div class="col-md-12 col-12">
                         <h4 class="text-center">Features</h4>
                     </div>
                 </article>
+                
                 <article class="row row-4">
                     <div class="col-12 col-md-6" data-aos="zoom-in-up" data-aos-duration="2000">
                         <img src="assets/Top notch scanner.png" class="phone-2" alt="phone">
@@ -115,6 +117,7 @@
                         </p>
                     </div>
                 </article>
+
                 <article class="row row-5">
                     <div class="col-12 col-md-6">
                         <h3 class="center-text top-notch">Fast and reliable results</h3>
@@ -131,6 +134,7 @@
                         <img src="assets/Egg 1.png" class="phone-2 phone-3" alt="phone">
                     </div>
                 </article>
+
                 <article class="row last-row">
                     <div class="col-12 col-md-6" data-aos="zoom-in-up" data-aos-duration="2000" data-aos-delay="100">
                         <img src="assets/Fresh egg finder.png" class="phone-2 phone-4" alt="phone">
