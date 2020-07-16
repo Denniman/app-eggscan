@@ -151,21 +151,21 @@
             </section>
            
         </main>
+
         <section class="container-fluid last-section">
-        <div class="container">
-        <article class="row">
-        <div class="col-12 col-md-6 mt-5 adjust">
-        <h4 class="text-center">EggScan is the first of its kind</h4>
-        <p class="lead text-center">Use the app to differentiate your eggs so as to live
-        a healthier and better life.
-        </p>
-        <h4 class="text-center">We are coming soon</h4>
-        </div>
-        <div class="col-12 col-md-6 mt-5">
-        <img src="assets/Group 67.png" class="group67" alt="phone">
-        </div>
-        </article>
-        </div>
+            <div class="container">
+                <article class="row">
+                    <div class="col-12 col-md-6 mt-5 adjust">
+                        <h4 class="text-center">EggScan is the first of its kind</h4>
+                        <p class="lead text-center">Use the app to differentiate your eggs so as to live
+                            a healthier and better life. </p>
+                        <h4 class="text-center">We are coming soon</h4>
+                    </div>
+                        <div class="col-12 col-md-6 mt-5">
+                            <img src="assets/Group 67.png" class="group67" alt="phone">
+                        </div>
+                </article>
+            </div>
         </section>
 
         <footer class="footer-section">
@@ -188,7 +188,7 @@
                                         ?>
                                     </p>
                               
-                                    <input type="email" name = "email" class="form-control footer-form" id="" placeholder="Enter email" required>
+                                    <input type="email" name = "email" class="form-control footer-form" placeholder="Enter email" required>
                                 
                                     <div class="input-group-append">
                                 
