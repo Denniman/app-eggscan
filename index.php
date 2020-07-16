@@ -81,7 +81,7 @@
                                 <p>Lorem ipsum dolor sit amet consect</p>
                             </li>
                             <li>
-                                <img src="assets/Quick Scan.png" alt="scan" class="features-img">
+                                <img src="assets/Quick Scan.png" alt="phone" class="features-img">
                                 <h5>Quick Scan</h5>
                                 <p>Lorem ipsum dolor sit amet consectet</p>
                             </li>
@@ -100,7 +100,7 @@
                 </article>
                 <article class="row row-4">
                     <div class="col-12 col-md-6" data-aos="zoom-in-up" data-aos-duration="2000">
-                        <img src="assets/Top notch scanner.png" class="phone-2" alt="">
+                        <img src="assets/Top notch scanner.png" class="phone-2" alt="phone">
                     </div>
                     <div class="col-12 col-md-6">
                         <h3 class="center-text top-notch">Top notch AI Scanner</h3>
@@ -128,12 +128,12 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-6" data-aos="zoom-in-up" data-aos-duration="2000" data-aos-delay="50">
-                        <img src="assets/Egg 1.png" class="phone-2 phone-3" alt="">
+                        <img src="assets/Egg 1.png" class="phone-2 phone-3" alt="phone">
                     </div>
                 </article>
                 <article class="row last-row">
                     <div class="col-12 col-md-6" data-aos="zoom-in-up" data-aos-duration="2000" data-aos-delay="100">
-                        <img src="assets/Fresh egg finder.png" class="phone-2 phone-4" alt="">
+                        <img src="assets/Fresh egg finder.png" class="phone-2 phone-4" alt="phone">
                     </div>
                     <div class="col-12 col-md-6">
                         <h3 class="center-text top-notch">Fresh Eggs Finder</h3>
@@ -162,7 +162,7 @@
         <h4 class="text-center">We are coming soon</h4>
         </div>
         <div class="col-12 col-md-6 mt-5">
-        <img src="assets/Group 67.png" class="group67" alt="">
+        <img src="assets/Group 67.png" class="group67" alt="phone">
         </div>
         </article>
         </div>
@@ -205,11 +205,11 @@
                         <ul class="d-flex justify-content-center">
                             
                             <li class="mr-3">
-                                <a href="#"><img src="assets/icons8-facebook 1.svg" alt=""></a>
+                                <a href="#"><img src="assets/icons8-facebook 1.svg" alt="facebook"></a>
                                 
                             </li>
                             <li class="mr-3">
-                            <a href="#"><img src="assets/icons8-instagram 1.svg" alt=""></a>
+                            <a href="#"><img src="assets/icons8-instagram 1.svg" alt="instagram"></a>
                             </li>
                             
                         </ul>     
