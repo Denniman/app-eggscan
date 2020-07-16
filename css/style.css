@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+body {
+    height: 250vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-color {
+    background-color: #D0792B;
+}
+
+a.navbar-brand {
+    color: #fff;
+}
+.logo-img {
+    width: 40%;
+    margin-left: 5em;
+}
+
+img#logo2-img {
+    width: 15%;
+}
+
+.header-content {
+    background-image: url(../assets/Hero.png);
+    height: -70vh;
+}
+
+.content {
+    margin-top: 2em;
+}
+
+/* features icon */
+.features-img {
+    width: 20%;
+    margin-left: 1.5em;
+}
+
+.row-2 {
+    margin-top: 17em !important;
+}
+
+[type="email"], .btn-primary  {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    border: 0;
+    background-color: #000 !important;
+    
+}
+
+ul li {
+    list-style: none;
+}
+.ul-link {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.ul-link li {
+    list-style: none;
+    width: 20%;
+}
+.how-it-works {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+p.get-familiar {
+    font-size: 1.5rem;
+}
+
+span.works {
+    color: #D0792B;
+}
+
+.top-notch {
+    color: #837C7C;
+}
+
+.last-section {
+    background-color: #D0792B;
+    height: 70vh;
+}
+
+
+h1.coming-soon {
+    text-align: left;
+
+}
+
+p.coming-soon {
+    text-align: left;
+}
+
+.lead{
+    font-size: 1.2rem;
+}
+
+img.phone1 {
+    width: 50%;
+    margin-left: 10em;
+}
+
+img.phone-2 {
+    width: 100%;
+    margin-top: -15em;
+}
+
+.row-2 {
+    margin-top: 10em;
+}
+
+.row-5 {
+    margin-top: 10em;
+}
+
+.row-3, .row-4 {
+    margin-top: 5em;
+}
+
+
+.last-row {
+    margin-top: 13em;
+}
+
+.group67 {
+    width: 70%;
+}
+
+.group67:hover {
+    cursor: pointer;
+    -ms-transform: scale(1.5); /* IE 9 */
+   -webkit-transform: scale(1.5); /* Safari 3-8 */
+   transform: scale(1.5);
+}
+
+.footer-section {
+    height: 70vh;
+}
+
+.mg-top {
+    margin-top: 6em !important;
+}
+.test-row{
+    height: 120vh;
+}
+.adjust{
+    margin-top: 10em !important;
+}
+@media only screen and (max-width: 576px) {
+    .logo-img {
+        margin-left: 0.6em;
+    }
+    
+    .features-img {
+        width: 50%;
+        margin-left: -0.5px;
+    }
+    img.phone1 {
+        width: 40%;
+        margin-left: 7em;
+        margin-top: -10em;
+    }
+
+    .center-text{
+        text-align: center;
+    }
+
+    .group67 {
+        width: 40%;
+        margin-left: 7em;
+    }
+    .lead{
+        font-size: 1rem;
+    }
+    .last-section {
+        background-color: #D0792B;
+        height: 60vh;
+    }
+
+    .btn-primary {
+        font-size: 0.8rem;   
+    }
+
+    .form1{
+       width:30% !important;
+    }
+
+    h1.coming-soon {
+        font-family: inherit;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    
+    p.coming-soon {
+        text-align: center;
+        font-size: 0.8rem;
+    }
+    .ul-link li {
+        list-style: none;
+        width: 20%;
+        font-size: 0.8rem;
+        margin-right: 2em;
+    }
+    .ul-link li h5{
+        font-size: 0.9rem;
+    }
+
+    img.phone-2 {
+        width: 50%;
+        margin-left: 5em;
+    }
+    .row-5, .row-4, .last-row{
+        margin-top: 10em;
+    }
+    
+    .row-3{
+        margin-top: 3em;
+    }
+    .phone-3{
+        margin-top: -54em !important;
+    }
+
+    p.get-familiar {
+        font-size: 1.1rem;
+    }
+    .test-row{
+        height: 105vh;
+    }
+    .how-it-works {
+        margin-top: -12em;
+        letter-spacing: 5px;
+    }
+    .adjust{
+        margin-top: 2em !important;
+    }
+
+}
+    
