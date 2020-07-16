@@ -150,6 +150,7 @@ img.phone-2 {
 .adjust{
     margin-top: 10em !important;
 }
+
 @media only screen and (max-width: 576px) {
     .logo-img {
         margin-left: 0.6em;
@@ -159,6 +160,7 @@ img.phone-2 {
         width: 50%;
         margin-left: -0.5px;
     }
+
     img.phone1 {
         width: 40%;
         margin-left: 7em;
@@ -176,6 +178,7 @@ img.phone-2 {
     .lead{
         font-size: 1rem;
     }
+
     .last-section {
         background-color: #D0792B;
         height: 60vh;
@@ -185,7 +188,7 @@ img.phone-2 {
         font-size: 0.8rem;   
     }
 
-    .form1{
+    .form1 {
        width:30% !important;
     }
 
@@ -199,13 +202,15 @@ img.phone-2 {
         text-align: center;
         font-size: 0.8rem;
     }
+    
     .ul-link li {
         list-style: none;
         width: 20%;
         font-size: 0.8rem;
         margin-right: 2em;
     }
-    .ul-link li h5{
+
+    .ul-link li h5 {
         font-size: 0.9rem;
     }
 
@@ -213,13 +218,14 @@ img.phone-2 {
         width: 50%;
         margin-left: 5em;
     }
-    .row-5, .row-4, .last-row{
+    .row-5, .row-4, .last-row {
         margin-top: 10em;
     }
     
     .row-3{
         margin-top: 3em;
     }
+
     .phone-3{
         margin-top: -54em !important;
     }
@@ -227,13 +233,15 @@ img.phone-2 {
     p.get-familiar {
         font-size: 1.1rem;
     }
-    .test-row{
+
+    .test-row {
         height: 105vh;
     }
     .how-it-works {
         margin-top: -12em;
         letter-spacing: 5px;
     }
+
     .adjust{
         margin-top: 2em !important;
     }
