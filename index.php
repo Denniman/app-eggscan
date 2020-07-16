@@ -62,7 +62,7 @@
           
                     
                     <div class="col-md-6 content">
-                     <img src="assets/iPhone X (9).png" class="phone1" alt="">
+                     <img src="assets/iPhone X (9).png" class="phone1" alt="phono">
                 </div>
             </div>
             </section>
