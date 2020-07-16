@@ -34,7 +34,7 @@
                         <div class="mt-5 input-group mb-2 mr-sm-2">
     
                            
-                            <input type="email" name = "email" class="form-control form1" id="" placeholder="Enter email" required>
+                            <input type="email" name = "email" class="form-control form1" placeholder="Enter email" required>
                         
                             <div class="input-group-append">
                         
