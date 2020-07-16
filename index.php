@@ -66,8 +66,8 @@
                 </div>
             </div>
             </section>
- 
         </header>
+
         <main class="container-fluid">
             <section class="container">
                 <article class="row row-2">
@@ -93,7 +93,7 @@
                         </ul>                        
                     </div>
                 </article>
-                
+
                 <article class="row row-3">
                     <div class="col-md-12 col-12">
                         <h4 class="text-center">Features</h4>
