@@ -52,6 +52,7 @@ img#logo2-img {
 ul li {
     list-style: none;
 }
+
 .ul-link {
     display: flex;
     flex-flow: row wrap;
@@ -62,6 +63,7 @@ ul li {
     list-style: none;
     width: 20%;
 }
+
 .how-it-works {
     font-size: 1.5rem;
     font-weight: bolder;
@@ -85,7 +87,6 @@ span.works {
     height: 70vh;
 }
 
-
 h1.coming-soon {
     text-align: left;
 
@@ -95,7 +96,7 @@ p.coming-soon {
     text-align: left;
 }
 
-.lead{
+.lead {
     font-size: 1.2rem;
 }
 
@@ -144,14 +145,17 @@ img.phone-2 {
 .mg-top {
     margin-top: 6em !important;
 }
+
 .test-row{
     height: 120vh;
 }
+
 .adjust{
     margin-top: 10em !important;
 }
 
 @media only screen and (max-width: 576px) {
+
     .logo-img {
         margin-left: 0.6em;
     }
@@ -175,6 +179,7 @@ img.phone-2 {
         width: 40%;
         margin-left: 7em;
     }
+
     .lead{
         font-size: 1rem;
     }
@@ -202,7 +207,7 @@ img.phone-2 {
         text-align: center;
         font-size: 0.8rem;
     }
-    
+
     .ul-link li {
         list-style: none;
         width: 20%;
